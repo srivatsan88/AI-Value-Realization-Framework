@@ -10,15 +10,19 @@ This repository contains supporting artifact for my LinkedIn article on **Identi
 
 **Who is this "AI Value Realization Framework" for?**
 
-* CxO or AI Champion within organization who want to size the opportunity of AI use case against expected Business value
+* **CxO or AI Champion within organization who want to size the opportunity of AI use case against expected Business value**
 
-* AI consulting and service organization that are in business of accelerating AI journey for their customer and looking at way to come up with high level pricing to size AI opportunity
+* **AI consulting and service organization that are in business of accelerating AI journey for their customer and looking at way to come up with high level pricing to size AI opportunity**
 
-* AI product startup or boutique AI firms using this to calculate ROI over time horizon to position their product or services
+* **AI product startup or boutique AI firms using this to calculate ROI over time horizon to position their product or services**
+
+Primary purpose of this framework is to come up with ROI of AI use cases during the start of project for Budgeting and approvals 
 
 You can find more details on this framework in project wiki page link below
 
 [AI Value Realization Framework Wiki](https://github.com/srivatsan88/AI-Value-Realization-Framework/wiki)
 
 In case if you have any suggestions, questions or you find a Bug in the template, Please use issues tab in this GitHub repository to raise one
+
+Keep watching this repository as I enhance the template to factor in new dimensions into the calculation
 
