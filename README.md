@@ -6,7 +6,7 @@ This repository contains supporting artifact for my LinkedIn article on **Identi
 
 **Part 1** - [Identifying and Prioritizing AI Use Cases - Background](https://www.linkedin.com/pulse/identifying-prioritizing-artificial-intelligence-use-cases-srivatsan/)
 
-**Part 2** - 
+**Part 2** - [Calculating Return on Investment of AI projects](https://www.linkedin.com/pulse/prioritizing-artificial-intelligence-use-cases-roi-part-srinivasan/)
 
 **Who is this "AI Value Realization Framework" for?**
 
