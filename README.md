@@ -10,7 +10,7 @@ This repository contains supporting artifact for my LinkedIn article on **Identi
 
 **Who is this "AI Value Realization Framework" for?**
 
-* **CxO or AI Champion within organization who want to size the opportunity of AI use case against expected Business value**
+* **CxO or AI Champion within organization who want to size the opportunity of AI use case for budgeting and understand expected business benefit over time**
 
 * **AI consulting and service organization that are in business of accelerating AI journey for their customer and looking at way to come up with high level pricing to size AI opportunity**
 
